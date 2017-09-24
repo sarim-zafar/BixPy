@@ -13,8 +13,11 @@ jupyter
 pandas
 sklearn
 
+We have downloaded the dataset on 24th of sept from Bixi site
+We will use all the data that is present as a year and try to predict the data for upcoming months.
+
 ```
-pip install jupyter,pandas,sklearn
+pip install jupyter pandas sklearn
 ```
 
 ## Authors
